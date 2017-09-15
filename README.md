@@ -1,4 +1,4 @@
-# CSC591 Capstone Project - Yelp Restaurant Photo Classification
+# Yelp Restaurant Photo Classification
 
 ### Description:
 In this project, we build a model that automatically tags restaurants with multiple labels using a dataset of user-submitted photos. Currently, restaurant labels are manually selected by Yelp users when they submit a review. Selecting the labels is optional, leaving some restaurants un- or only partially-categorized. 
