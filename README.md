@@ -1,10 +1,5 @@
 # CSC591 Capstone Project - Yelp Restaurant Photo Classification
 
-### Team Members:
-  - Amit Watve (awatve@ncsu.edu)
-  - Omkar Acharya (oachary@ncsu.edu)
-  - Akshay Arlikatti (aarlika@ncsu.edu)
-
 ### Description:
 In this project, we build a model that automatically tags restaurants with multiple labels using a dataset of user-submitted photos. Currently, restaurant labels are manually selected by Yelp users when they submit a review. Selecting the labels is optional, leaving some restaurants un- or only partially-categorized. 
 In an age of food selfies and photo-centric social storytelling, it may be no surprise to hear that Yelp's users upload an enormous amount of photos every day alongside their written reviews. 
